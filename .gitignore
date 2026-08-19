@@ -1,0 +1,29 @@
+# Unity genera esto solo. Nunca se versiona.
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Multiplayer Play Mode crea una Library por jugador virtual
+Library/VP/
+
+# Assets de pago: NUNCA versionar
+Assets/Plugins/Sirenix/
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# SO
+.DS_Store
+Thumbs.db
+desktop.ini
